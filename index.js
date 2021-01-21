@@ -11,7 +11,9 @@ Then, set another key of lastName
 and set it equal to your last name
 */
 
-
+var me = {};
+var key = "firstName" = isabella;
+var latName = wolf;
 
 
 
@@ -30,3 +32,6 @@ species that are set to the name of your pet and
 its species. (if you don't have a pet, you can just 
 make one up)
 */
+
+var myHobbies = (drawing, sleeping, youtube)
+var pet = cat
